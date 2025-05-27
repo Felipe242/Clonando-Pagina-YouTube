@@ -6,4 +6,5 @@ Esse Projeto foi desenvolvido através de um Desafio proposto pela Formação CS
 ![Css](assets/Imagens/Css.svg)
 ### Preview:
 
-![Clonagem pagina youtube](https://github.com/user-attachments/assets/51b86488-96ec-4a29-96d7-07a0857aaa72)
+
+![Clonagem pagina youtube](https://github.com/user-attachments/assets/c206cb3e-eb0b-4863-81d0-55382f4f8aa6)
